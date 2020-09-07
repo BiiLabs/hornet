@@ -3,6 +3,7 @@ module github.com/gohornet/hornet
 go 1.15
 
 require (
+	github.com/DLTcollab/dcurl/cgo v0.0.0-20200709092739-021abb6a7855
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
 	github.com/dustin/go-humanize v1.0.0
 	github.com/eclipse/paho.mqtt.golang v1.2.1-0.20200506085104-5ee50844ed64
